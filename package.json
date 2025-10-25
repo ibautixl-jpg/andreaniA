@@ -1,4 +1,7 @@
 {
+  "type": "module",
+  ...
+}
   "name": "andreani-autoload",
   "version": "5.4.0",
   "private": true,
